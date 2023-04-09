@@ -7,20 +7,23 @@ sites:
     url: https://www.google.com
   - name: Haydndiniz.dev
     url: https://haydndiniz.dev
-  - name: Hacker News
+  - name: WD NAS - Photo Server
     url: https://news.ycombinator.com
-  - name: Test Broken Site
+  - name: WD NAS - Project Blog
     url: https://thissitedoesnotexist.koj.co
+  - name: Homeassistant
+    url: https://haydndiniz.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.haydndiniz.dev
   # baseUrl: https://haydndiniz.github.io/upptime
+  theme: ocean
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: d[GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Service Status
+  introTitle: "Services Uptime"
+  introMessage: View the current status of services below
   navbar:
     - title: Status
       href: /
