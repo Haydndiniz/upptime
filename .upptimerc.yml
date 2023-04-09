@@ -3,8 +3,6 @@ owner: haydndiniz # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: Haydndiniz.dev
     url: https://haydndiniz.dev
   - name: WD NAS - Photo Server
@@ -19,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.haydndiniz.dev
   # baseUrl: https://haydndiniz.github.io/upptime
-  theme: ocean
+  theme: night
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Service Status
   introTitle: "Services Uptime"
