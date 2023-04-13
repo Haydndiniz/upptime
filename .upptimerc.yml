@@ -5,10 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Haydndiniz.dev
     url: https://haydndiniz.dev
-  - name: WD NAS - Photo Server
-    url: https://news.ycombinator.com
-  - name: WD NAS - Project Blog
-    url: https://thissitedoesnotexist.koj.co
+  - name: Photo Server
+    url: https://photos.haydndiniz.dev
+  - name: Project Blog - Private during migration to VPS
+    url: https://blog.haydndiniz.dev
   - name: Homeassistant
     url: https://haydndiniz.dev
 
