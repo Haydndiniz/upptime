@@ -21,10 +21,9 @@ This repository contains the open-source uptime monitor and status page for [Hay
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://demo.upptime.js.org)
+[**Visit our status website →**](https://uptime.haydndiniz.dev)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
 - Code: [MIT](./LICENSE) © [Haydn Diniz](https://demo.upptime.js.org)
-- Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
