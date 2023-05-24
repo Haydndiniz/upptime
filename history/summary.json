@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 225,
-    "timeWeek": 159,
-    "timeMonth": 174,
+    "timeDay": 174,
+    "timeWeek": 156,
+    "timeMonth": 177,
     "timeYear": 162,
     "dailyMinutesDown": {}
   },
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-24": 28,
+      "2023-05-24": 1393,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
       "2023-05-21": 1440,
@@ -83,18 +83,20 @@
     "url": "https://blog.haydndiniz.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.haydndiniz.dev.ico",
     "slug": "project-blog-private-during-migration-to-vps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 434,
-    "timeDay": 285,
-    "timeWeek": 333,
-    "timeMonth": 447,
-    "timeYear": 434,
-    "dailyMinutesDown": {}
+    "time": 479,
+    "timeDay": 2333,
+    "timeWeek": 613,
+    "timeMonth": 519,
+    "timeYear": 479,
+    "dailyMinutesDown": {
+      "2023-05-24": 0
+    }
   },
   {
     "name": "Homeassistant",
@@ -108,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 35,
-    "timeDay": 54,
-    "timeWeek": 36,
-    "timeMonth": 38,
+    "timeDay": 12,
+    "timeWeek": 30,
+    "timeMonth": 37,
     "timeYear": 35,
     "dailyMinutesDown": {}
   }
