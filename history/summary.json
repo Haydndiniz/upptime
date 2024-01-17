@@ -6,9 +6,9 @@
     "slug": "haydndiniz-dev",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 147,
     "timeDay": 1147,
@@ -16,7 +16,7 @@
     "timeMonth": 198,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2024-01-17": 1
+      "2024-01-17": 16
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-17": 1315,
+      "2024-01-17": 1330,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
@@ -335,7 +335,7 @@
     "timeMonth": 0,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2024-01-17": 1315,
+      "2024-01-17": 1330,
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
