@@ -4,10 +4,10 @@
     "url": "https://haydndiniz.dev",
     "icon": "https://icons.duckduckgo.com/ip3/haydndiniz.dev.ico",
     "slug": "haydndiniz-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
@@ -16,6 +16,7 @@
     "timeMonth": 146,
     "timeYear": 147,
     "dailyMinutesDown": {
+      "2024-03-21": 1,
       "2024-01-17": 16
     }
   },
@@ -36,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-21": 28,
+      "2024-03-21": 1118,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -388,18 +389,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.haydndiniz.dev.ico",
     "slug": "project-blog-private-during-migration-to-vps",
     "status": "down",
-    "uptime": "20.59%",
+    "uptime": "20.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "20.59%",
+    "uptimeYear": "20.54%",
     "time": 530,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2024-03-21": 28,
+      "2024-03-21": 1118,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -681,9 +682,9 @@
     "url": "https://haydndiniz.dev",
     "icon": "https://icons.duckduckgo.com/ip3/haydndiniz.dev.ico",
     "slug": "homeassistant",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -692,6 +693,8 @@
     "timeWeek": 43,
     "timeMonth": 37,
     "timeYear": 29,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-21": 0
+    }
   }
 ]
