@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 185,
-    "timeWeek": 188,
-    "timeMonth": 156,
-    "timeYear": 146,
+    "time": 148,
+    "timeDay": 251,
+    "timeWeek": 203,
+    "timeMonth": 158,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2024-01-17": 16
     }
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-11": 30,
+      "2024-06-12": 30,
+      "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
@@ -399,8 +400,7 @@
       "2023-06-17": 1440,
       "2023-06-16": 1440,
       "2023-06-15": 1440,
-      "2023-06-14": 1440,
-      "2023-06-13": 1440
+      "2023-06-14": 1440
     }
   },
   {
@@ -409,7 +409,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.haydndiniz.dev.ico",
     "slug": "project-blog-private-during-migration-to-vps",
     "status": "down",
-    "uptime": "16.61%",
+    "uptime": "16.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -420,7 +420,8 @@
     "timeMonth": 0,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2024-06-11": 30,
+      "2024-06-12": 30,
+      "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
       "2024-06-08": 1440,
@@ -771,9 +772,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 30,
-    "timeDay": 22,
+    "timeDay": 27,
     "timeWeek": 29,
-    "timeMonth": 30,
+    "timeMonth": 29,
     "timeYear": 29,
     "dailyMinutesDown": {}
   }
