@@ -4,19 +4,19 @@
     "url": "https://haydndiniz.dev",
     "icon": "https://icons.duckduckgo.com/ip3/haydndiniz.dev.ico",
     "slug": "haydndiniz-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 189,
-    "timeWeek": 170,
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 157,
+    "timeDay": 188,
+    "timeWeek": 172,
     "timeMonth": 185,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2024-10-22": 1,
+      "2024-10-22": 18,
       "2024-01-17": 16
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-22": 263,
+      "2024-10-22": 280,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -421,7 +421,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-22": 263,
+      "2024-10-22": 280,
       "2024-10-21": 1440,
       "2024-10-20": 1440,
       "2024-10-19": 1440,
@@ -793,19 +793,19 @@
     "url": "https://haydndiniz.dev",
     "icon": "https://icons.duckduckgo.com/ip3/haydndiniz.dev.ico",
     "slug": "homeassistant",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 29,
-    "timeDay": 22,
-    "timeWeek": 24,
+    "timeDay": 25,
+    "timeWeek": 25,
     "timeMonth": 31,
     "timeYear": 29,
     "dailyMinutesDown": {
-      "2024-10-22": 0
+      "2024-10-22": 18
     }
   }
 ]
