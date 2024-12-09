@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/haydndiniz.dev.ico",
     "slug": "haydndiniz-dev",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "58.19%",
-    "uptimeWeek": "94.03%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.76%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "79.76%",
+    "uptimeMonth": "95.34%",
+    "uptimeYear": "99.61%",
     "time": 161,
     "timeDay": 0,
-    "timeWeek": 132,
-    "timeMonth": 184,
+    "timeWeek": 128,
+    "timeMonth": 186,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2024-12-08": 44,
+      "2024-12-09": 42,
+      "2024-12-08": 1440,
       "2024-12-07": 558,
       "2024-10-22": 18,
       "2024-01-17": 16
@@ -39,7 +40,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-08": 44,
+      "2024-12-09": 42,
+      "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
@@ -402,8 +404,7 @@
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
-      "2023-12-11": 1440,
-      "2023-12-10": 1440
+      "2023-12-11": 1440
     }
   },
   {
@@ -412,7 +413,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.haydndiniz.dev.ico",
     "slug": "project-blog-private-during-migration-to-vps",
     "status": "down",
-    "uptime": "11.67%",
+    "uptime": "11.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -423,7 +424,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-08": 44,
+      "2024-12-09": 42,
+      "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
       "2024-12-05": 1440,
@@ -786,8 +788,7 @@
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
-      "2023-12-11": 1440,
-      "2023-12-10": 1440
+      "2023-12-11": 1440
     }
   },
   {
@@ -796,18 +797,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/haydndiniz.dev.ico",
     "slug": "homeassistant",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "58.19%",
-    "uptimeWeek": "94.03%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.77%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "79.76%",
+    "uptimeMonth": "95.34%",
+    "uptimeYear": "99.61%",
     "time": 30,
     "timeDay": 0,
     "timeWeek": 18,
-    "timeMonth": 22,
+    "timeMonth": 23,
     "timeYear": 30,
     "dailyMinutesDown": {
-      "2024-12-08": 44,
+      "2024-12-09": 42,
+      "2024-12-08": 1440,
       "2024-12-07": 558,
       "2024-10-22": 18
     }
