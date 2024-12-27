@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/haydndiniz.dev.ico",
     "slug": "haydndiniz-dev",
     "status": "up",
-    "uptime": "98.04%",
+    "uptime": "98.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.23%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "59.77%",
     "uptimeYear": "96.64%",
     "time": 161,
-    "timeDay": 161,
+    "timeDay": 191,
     "timeWeek": 163,
-    "timeMonth": 162,
+    "timeMonth": 163,
     "timeYear": 172,
     "dailyMinutesDown": {
       "2024-12-19": 1223,
@@ -50,7 +50,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-26": 37,
+      "2024-12-27": 37,
+      "2024-12-26": 1440,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
@@ -413,8 +414,7 @@
       "2024-01-01": 1440,
       "2023-12-31": 1440,
       "2023-12-30": 1440,
-      "2023-12-29": 1440,
-      "2023-12-28": 1440
+      "2023-12-29": 1440
     }
   },
   {
@@ -423,7 +423,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.haydndiniz.dev.ico",
     "slug": "project-blog-private-during-migration-to-vps",
     "status": "down",
-    "uptime": "11.33%",
+    "uptime": "11.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -434,7 +434,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-26": 37,
+      "2024-12-27": 37,
+      "2024-12-26": 1440,
       "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
@@ -797,8 +798,7 @@
       "2024-01-01": 1440,
       "2023-12-31": 1440,
       "2023-12-30": 1440,
-      "2023-12-29": 1440,
-      "2023-12-28": 1440
+      "2023-12-29": 1440
     }
   },
   {
@@ -807,15 +807,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/haydndiniz.dev.ico",
     "slug": "homeassistant",
     "status": "up",
-    "uptime": "98.04%",
+    "uptime": "98.05%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.23%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "59.77%",
     "uptimeYear": "96.64%",
     "time": 29,
-    "timeDay": 14,
-    "timeWeek": 23,
-    "timeMonth": 19,
+    "timeDay": 28,
+    "timeWeek": 24,
+    "timeMonth": 20,
     "timeYear": 30,
     "dailyMinutesDown": {
       "2024-12-19": 1223,
