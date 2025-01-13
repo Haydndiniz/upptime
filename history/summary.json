@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/haydndiniz.dev.ico",
     "slug": "haydndiniz-dev",
     "status": "up",
-    "uptime": "98.09%",
+    "uptime": "98.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.29%",
+    "uptimeMonth": "77.58%",
     "uptimeYear": "96.64%",
     "time": 163,
-    "timeDay": 261,
-    "timeWeek": 192,
-    "timeMonth": 177,
+    "timeDay": 151,
+    "timeWeek": 190,
+    "timeMonth": 176,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2024-12-19": 1223,
@@ -50,7 +50,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-12": 41,
+      "2025-01-13": 40,
+      "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -413,8 +414,7 @@
       "2024-01-18": 1440,
       "2024-01-17": 1440,
       "2024-01-16": 1440,
-      "2024-01-15": 1440,
-      "2024-01-14": 1440
+      "2024-01-15": 1440
     }
   },
   {
@@ -423,7 +423,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.haydndiniz.dev.ico",
     "slug": "project-blog-private-during-migration-to-vps",
     "status": "down",
-    "uptime": "11.03%",
+    "uptime": "11.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -434,7 +434,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-12": 41,
+      "2025-01-13": 40,
+      "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -797,8 +798,7 @@
       "2024-01-18": 1440,
       "2024-01-17": 1440,
       "2024-01-16": 1440,
-      "2024-01-15": 1440,
-      "2024-01-14": 1440
+      "2024-01-15": 1440
     }
   },
   {
@@ -810,11 +810,11 @@
     "uptime": "98.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.29%",
+    "uptimeMonth": "77.58%",
     "uptimeYear": "96.64%",
     "time": 28,
     "timeDay": 13,
-    "timeWeek": 19,
+    "timeWeek": 18,
     "timeMonth": 21,
     "timeYear": 30,
     "dailyMinutesDown": {
