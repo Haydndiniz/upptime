@@ -7,7 +7,7 @@ sites:
     url: https://haydndiniz.dev
   - name: Photo Server
     url: https://photos.haydndiniz.dev
-  - name: Project Blog - Private during migration to VPS
+  - name: Project Blog - Private
     url: https://blog.haydndiniz.dev
   - name: Homeassistant
     url: https://haydndiniz.dev
