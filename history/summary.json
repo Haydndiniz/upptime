@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.64%",
-    "time": 170,
-    "timeDay": 128,
-    "timeWeek": 221,
+    "time": 171,
+    "timeDay": 195,
+    "timeWeek": 220,
     "timeMonth": 201,
     "timeYear": 177,
     "dailyMinutesDown": {
@@ -43,11 +43,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 363,
-    "timeDay": 445,
-    "timeWeek": 435,
-    "timeMonth": 363,
-    "timeYear": 363,
+    "time": 377,
+    "timeDay": 575,
+    "timeWeek": 484,
+    "timeMonth": 377,
+    "timeYear": 377,
     "dailyMinutesDown": {}
   },
   {
@@ -67,7 +67,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-15": 38,
+      "2025-03-16": 42,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -430,8 +431,7 @@
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
-      "2024-03-17": 1440,
-      "2024-03-16": 1440
+      "2024-03-17": 1440
     }
   },
   {
@@ -445,11 +445,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 329,
-    "timeWeek": 422,
-    "timeMonth": 436,
-    "timeYear": 436,
+    "time": 471,
+    "timeDay": 985,
+    "timeWeek": 514,
+    "timeMonth": 471,
+    "timeYear": 471,
     "dailyMinutesDown": {}
   },
   {
@@ -458,14 +458,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/haydndiniz.dev.ico",
     "slug": "homeassistant",
     "status": "up",
-    "uptime": "98.26%",
+    "uptime": "98.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.64%",
     "time": 29,
-    "timeDay": 12,
-    "timeWeek": 18,
+    "timeDay": 14,
+    "timeWeek": 17,
     "timeMonth": 42,
     "timeYear": 30,
     "dailyMinutesDown": {
