@@ -37,10 +37,10 @@
     "url": "https://proxy.haydndiniz.dev",
     "icon": "https://icons.duckduckgo.com/ip3/proxy.haydndiniz.dev.ico",
     "slug": "proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 385,
@@ -48,7 +48,9 @@
     "timeWeek": 507,
     "timeMonth": 385,
     "timeYear": 385,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 1
+    }
   },
   {
     "name": "Photo Server",
@@ -67,7 +69,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-17": 41,
+      "2025-03-17": 404,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -439,9 +441,9 @@
     "url": "https://blog.haydndiniz.dev",
     "icon": "https://icons.duckduckgo.com/ip3/blog.haydndiniz.dev.ico",
     "slug": "project-blog-private",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -450,7 +452,9 @@
     "timeWeek": 506,
     "timeMonth": 461,
     "timeYear": 461,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 0
+    }
   },
   {
     "name": "Homeassistant",
