@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.64%",
     "time": 171,
-    "timeDay": 223,
-    "timeWeek": 210,
+    "timeDay": 232,
+    "timeWeek": 215,
     "timeMonth": 200,
-    "timeYear": 177,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2024-12-19": 1223,
       "2024-12-18": 1440,
@@ -38,18 +38,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy.haydndiniz.dev.ico",
     "slug": "proxy",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.05%",
+    "uptimeDay": "25.33%",
+    "uptimeWeek": "89.33%",
+    "uptimeMonth": "95.05%",
+    "uptimeYear": "95.05%",
     "time": 385,
-    "timeDay": 513,
-    "timeWeek": 507,
+    "timeDay": 0,
+    "timeWeek": 552,
     "timeMonth": 385,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-03-17": 1
+      "2025-03-18": 39,
+      "2025-03-17": 1036
     }
   },
   {
@@ -69,7 +70,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-17": 404,
+      "2025-03-18": 39,
+      "2025-03-17": 1440,
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 1440,
@@ -432,8 +434,7 @@
       "2024-03-22": 1440,
       "2024-03-21": 1440,
       "2024-03-20": 1440,
-      "2024-03-19": 1440,
-      "2024-03-18": 1440
+      "2024-03-19": 1440
     }
   },
   {
@@ -442,18 +443,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.haydndiniz.dev.ico",
     "slug": "project-blog-private",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "95.05%",
+    "uptimeDay": "25.37%",
+    "uptimeWeek": "89.34%",
+    "uptimeMonth": "95.05%",
+    "uptimeYear": "95.05%",
     "time": 461,
-    "timeDay": 314,
-    "timeWeek": 506,
+    "timeDay": 0,
+    "timeWeek": 534,
     "timeMonth": 461,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2025-03-17": 0
+      "2025-03-18": 39,
+      "2025-03-17": 1036
     }
   },
   {
@@ -468,8 +470,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.64%",
     "time": 29,
-    "timeDay": 22,
-    "timeWeek": 17,
+    "timeDay": 15,
+    "timeWeek": 16,
     "timeMonth": 42,
     "timeYear": 30,
     "dailyMinutesDown": {
