@@ -11,8 +11,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "96.55%",
     "time": 194,
-    "timeDay": 154,
-    "timeWeek": 179,
+    "timeDay": 173,
+    "timeWeek": 171,
     "timeMonth": 193,
     "timeYear": 197,
     "dailyMinutesDown": {
@@ -49,18 +49,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy.haydndiniz.dev.ico",
     "slug": "proxy",
     "status": "down",
-    "uptime": "5.27%",
+    "uptime": "5.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "5.27%",
+    "uptimeYear": "5.26%",
     "time": 385,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-11-29": 1153,
+      "2025-11-30": 51,
+      "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -330,7 +331,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "62.69%",
+    "uptimeYear": "62.79%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -456,8 +457,7 @@
       "2024-12-04": 1440,
       "2024-12-03": 1440,
       "2024-12-02": 1440,
-      "2024-12-01": 1440,
-      "2024-11-30": 1440
+      "2024-12-01": 1440
     }
   },
   {
@@ -477,7 +477,8 @@
     "timeMonth": 0,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2025-11-29": 1153,
+      "2025-11-30": 51,
+      "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
@@ -749,8 +750,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "96.55%",
     "time": 33,
-    "timeDay": 15,
-    "timeWeek": 23,
+    "timeDay": 18,
+    "timeWeek": 22,
     "timeMonth": 29,
     "timeYear": 35,
     "dailyMinutesDown": {
