@@ -6,13 +6,13 @@
     "slug": "haydndiniz-dev",
     "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "96.25%",
-    "uptimeWeek": "98.39%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "98.56%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "96.52%",
     "time": 195,
-    "timeDay": 252,
-    "timeWeek": 206,
+    "timeDay": 267,
+    "timeWeek": 213,
     "timeMonth": 197,
     "timeYear": 198,
     "dailyMinutesDown": {
@@ -43,8 +43,7 @@
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
-      "2024-12-08": 1440,
-      "2024-12-07": 558
+      "2024-12-08": 1440
     }
   },
   {
@@ -53,18 +52,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxy.haydndiniz.dev.ico",
     "slug": "proxy",
     "status": "down",
-    "uptime": "5.14%",
+    "uptime": "5.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "5.14%",
+    "uptimeYear": "5.13%",
     "time": 385,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 385,
     "dailyMinutesDown": {
-      "2025-12-06": 1117,
+      "2025-12-07": 51,
+      "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -341,7 +341,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.59%",
+    "uptimeYear": "65.69%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -460,8 +460,7 @@
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
-      "2024-12-08": 1440,
-      "2024-12-07": 1440
+      "2024-12-08": 1440
     }
   },
   {
@@ -470,18 +469,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.haydndiniz.dev.ico",
     "slug": "project-blog-private",
     "status": "down",
-    "uptime": "5.14%",
+    "uptime": "5.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "5.14%",
+    "uptimeYear": "5.13%",
     "time": 461,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2025-12-06": 1117,
+      "2025-12-07": 51,
+      "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -755,14 +755,14 @@
     "slug": "homeassistant",
     "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "96.24%",
-    "uptimeWeek": "98.38%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "98.56%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "96.52%",
     "time": 33,
-    "timeDay": 56,
-    "timeWeek": 32,
-    "timeMonth": 30,
+    "timeDay": 69,
+    "timeWeek": 34,
+    "timeMonth": 29,
     "timeYear": 35,
     "dailyMinutesDown": {
       "2025-12-06": 35,
@@ -792,8 +792,7 @@
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
-      "2024-12-08": 1440,
-      "2024-12-07": 558
+      "2024-12-08": 1440
     }
   }
 ]
