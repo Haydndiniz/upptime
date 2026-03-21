@@ -1,2 +1,36 @@
-User-agent: *
+User-Agent: GPTBot
 Disallow: /
+
+User-Agent: ChatGPT-User
+Disallow: /
+
+User-Agent: CCBot
+Disallow: /
+
+User-Agent: anthropic-ai
+Disallow: /
+
+User-Agent: Claude-Web
+Disallow: /
+
+User-Agent: PerplexityBot
+Disallow: /
+
+User-Agent: cohere-ai
+Disallow: /
+
+User-Agent: Googlebot-Extended
+Disallow: /
+
+User-Agent: FacebookExternalHit
+Disallow: /
+
+User-Agent: Applebot
+Disallow: /
+
+User-Agent: Bingbot
+Disallow: /
+
+User-Agent: *
+disallow: "/",
+
